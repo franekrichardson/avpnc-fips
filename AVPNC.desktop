@@ -3,7 +3,7 @@ Version=1.0
 Name=Aviatrix VPN Client
 Comment=Connects to VPN Networks
 Exec=env BROWSER=/usr/bin/AVPNC_bin/browser /usr/bin/AVPNC_bin/AVPNC
-Icon=/usr/bin/AVPNC_bin/Avi.png
+Icon=/usr/share/icons/hicolor/128x128/apps/avpnc-fips.png
 Path=/usr/bin/AVPNC_bin
 #action=Window,Open Root
 Terminal=false
