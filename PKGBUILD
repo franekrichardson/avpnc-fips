@@ -18,7 +18,8 @@ source=(https://aviatrix-download.s3-us-west-2.amazonaws.com/AviatrixVPNClient/d
         service
         browser
         AVPNC.desktop)
-sha512sums=('369f008fdeff19c299b61d5d06557a038ae7ffd564955731295942dacb9bebaeeef725f9eeb280ae5f584e5ca9e0e2b7d8f9b317f4db6e8ee9c18a52d4fe8ca9'
+# https://aviatrix-download.s3-us-west-2.amazonaws.com/AviatrixVPNClient/dev/fips/AVPNC_debian_FIPS.deb.checksum.txt
+sha512sums=('6357eb9495c9c7eb10c9776a5883e2ca9d70e816756a8b87870fb511fe6f71754f0d0bde8c914d85da183bf08c73bcfe7a8c1530f0b4da2a8102a92769aa9858'
             '4a64702faa88eda3150d8ad144a2359e55914f8041545ef0335990de5f546ae9b9eac00d56ebc8b4937077ad6d3694f66ce9c16014cc2f89b3a2dc599172569a'
             '0a3ba4025967160cea890864b8e89c2b547806220ea704c4bfaff6459dc7d87a3008d5b928f48e7da8a32821400725a0338d8dea3ee823c913a540018bdc35ce'
             '0e9d281face2c0730d61978e633e06fec453a7d7b217410db4b0fd3cbec2544e644353b6d6394eca5426c14e77e917dbdc4426b31460783f121ceba3acb41f5b'
